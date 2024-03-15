@@ -8,7 +8,9 @@ Améliorer la sécurité du domicile
 Réduire les coûts et l'impact environnemental en faisant des économies d'énergies 
 
 <h3>Problème technique à résoudre:</h3>
-Concevoir la maison connectée: Réalisation et montage des pièces nécessaires à l'aide de l'imprimante 3D. 
+Concevoir la maison connectée:
+<br>
+Réalisation et montage des pièces nécessaires à l'aide de l'imprimante 3D. 
 <br>
 Réalisation de la fixation du panneau solaire et de son montage à l'aide de l'imprimante 3D ou découpeuse laser. 
 <br>
