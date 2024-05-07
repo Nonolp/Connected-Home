@@ -1,4 +1,4 @@
-# Connected-Home
+# Système de sécurité pour maison connectée
 <h3>Besoin initial:</h3>
 Une habitation n'est pas encore équipée de systèmes de sécurité et d'économies d'énergie, ce qui génère de l'insécurité et une consommation d'énergie inutile.
 
