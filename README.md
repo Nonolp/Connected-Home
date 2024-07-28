@@ -10,9 +10,7 @@ Réduire les coûts et l'impact environnemental en faisant des économies d'éne
 
 Intégration des différents systèmes de gestion du chauffage, de la sécurité, de l'éclairage et de l'accès  
 
-<h3>Tâches:</h3>
-
-<h4>Tâches SIN 1 : </h4>
+<h4>Tâches: </h4>
 Détection de présence
 <br>
 Gestion de l'éclairage
@@ -21,12 +19,15 @@ Mesure de température
 <br>
 Gestion du chauffage.....
 
-<h4> Tâches SIN 2 : </h4>
-Identifier les habitants
-<br>
-Autoriser l'accès à l'habitation
-<br>
-Détection des intrusions 
-<br>
-Commande de la sirène
+
+
+<h5>Système d'alarme</h5>
+
+![image](https://github.com/user-attachments/assets/acb17018-daa5-4110-9ec7-b6e31de1ab3a)
+
+<h5>Porte à code</h5>
+
+![image](https://github.com/user-attachments/assets/00b42c58-59c1-4a8b-9a4f-c3b535fd48d5)
+
+
 
